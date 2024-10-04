@@ -25,12 +25,12 @@
 ## language.mjs ##
 + Multi-language Support: Added support for multiple languages, enhancing accessibility for diverse players.
 Included languages:
-  + Norwegian
-  + German
-  + French
-  + Spanish
-  + Korean
-  + Japanese
+  + `Norwegian`
+  + `German`
+  + `French`
+  + `Spanish`
+  + `Korean`
+  + `Japanese`
 
 ## README.md (This File)
 + Documentation: Compiled detailed documentation on changes, additions, and improvements made to the original implementation, + Game Mechanics Overview: Included a rundown for the game mechanics and instructions on how to play the game, ensuring users have clear guidance on gameplay.
