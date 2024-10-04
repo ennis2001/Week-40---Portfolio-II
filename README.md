@@ -13,7 +13,7 @@
 + Improved Game Summary: Enhanced feedback at the end of the game to indicate whether the player won, lost, or drew, along with the computer's performance in PvC mode.
 
 ## ansi.mjs ##
-+ ANSI Color Codes: Utilized ANSI color codes to enhance user feedback with colored text for player symbols and game status (e.g., current player's turn, win/lose messages).
++ ANSI Color Codes: Utilized ANSI colour codes to enhance user feedback with coloured text for player symbols and game status (e.g., current player's turn, win/lose messages).
 
 ## splash.mjs ##
 + Splash Screen Implementation: Created a splash screen that displays game information and introduces the game before starting, enhancing user experience.
@@ -32,5 +32,7 @@ Included languages:
   + `Korean`
   + `Japanese`
 
-## README.md (This File)
-+ Documentation: Compiled detailed documentation on changes, additions, and improvements made to the original implementation, + Game Mechanics Overview: Included a rundown for the game mechanics and instructions on how to play the game, ensuring users have clear guidance on gameplay.
+## README.md ##
++ Documentation: Compiled detailed documentation on changes, additions, and improvements made to the original implementation,
++ Game Mechanics Overview: Included a rundown for the game mechanics and instructions on how to play the game, ensuring users have clear guidance on gameplay.
+
