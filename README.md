@@ -33,4 +33,4 @@ Included languages:
   + Japanese
 
 ## README.md (This File)
-+ Documentation: Compiled detailed documentation on changes, additions, and improvements made to the original implementation, providing clarity on the modifications and enhancements to the game.
++ Documentation: Compiled detailed documentation on changes, additions, and improvements made to the original implementation, + Game Mechanics Overview: Included a rundown for the game mechanics and instructions on how to play the game, ensuring users have clear guidance on gameplay.
